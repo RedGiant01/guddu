@@ -1,0 +1,5 @@
+   IP - RedGiant_OFFICIAL.aternos.me
+  
+   PORT - 23820
+
+   BOT NAME - GUDDU
